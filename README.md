@@ -1,2 +1,9 @@
-# noticeme-CitizenIV
-Noticeme converted from fivem to Citizen iv for GTA IV , Citizen iv scritps
+# noticeme
+A simple notification resource for FiveM
+
+## [DOCS AND PREVIEW](https://minebill.github.io/noticeme)
+
+### Credits
+* Icons from [FontAwesome](https://fontawesome.com/)
+* Sounds from [NotificationSounds](https://notificationsounds.com/)
+* Original script [NotificationSounds](https://notificationsounds.com/)
